@@ -13,5 +13,5 @@ logging:
     com.heroku.kafka.demo: DEBUG
 
 kafka:
-  topic: ${KAFKA_PREFIX}messages
+  topic: ${KAFKA_PREFIX}sfbradb2b.opportunity
   consumerGroup: ${KAFKA_PREFIX}demo-group
